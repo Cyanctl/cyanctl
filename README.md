@@ -61,13 +61,7 @@ I enjoy contributing to existing projects, investigating bugs, improving impleme
 
 I'm especially interested in projects involving systems software, Linux tooling, application security, and low-level development.
 
-### `04` &nbsp; GitHub Overview
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/cyanctl/cyanctl/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-### `05` &nbsp; Support me!
+### `04` &nbsp; Support me!
 <p align="center">
   <a href="https://www.buymeacoffee.com/cyanes">
     <img src="https://img.shields.io/badge/☕_Buy_me_a_coffee-cyanes-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
